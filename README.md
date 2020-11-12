@@ -12,10 +12,10 @@
  
  Marcações para ser utilizada em:
  
- 1. __GitHub__
-    1. *Issues*
-    1. _Pull requests_
-    1. *README.md*
+ 1. *GitHub*
+    1. Issues
+    1. Pull requests
+    1. README.md
 1. Outros
 
 ***
